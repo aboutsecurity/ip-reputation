@@ -1,6 +1,6 @@
 # Threat Intelligence Analyzer
 
-A Streamlit application that analyzes IP addresses and domains for reputation and security risks by querying multiple open-source intelligence sources.
+A Streamlit application that analyzes IP addresses for reputation and security risks by querying multiple open-source intelligence sources.
 
 ## Features
 
@@ -15,12 +15,7 @@ A Streamlit application that analyzes IP addresses and domains for reputation an
   - Recency of reports
   - Relevance to your industry
 
-### Domain Analysis
-- Domain reputation check via VirusTotal
-- Generation of typosquatting and lookalike domain permutations using dnstwist
-- Verification of registered domain permutations (domains with A, AAAA, or MX records)
-- Certificate Transparency monitoring to detect SSL/TLS certificates issued for domains
-- Visual representation of domain security posture
+![alt text](image.png)
 
 ## Installation
 
