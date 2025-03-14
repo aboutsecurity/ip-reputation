@@ -48,7 +48,6 @@ The application requires the following API keys:
 - AbuseIPDB: Required for IP analysis - [Get API key](https://www.abuseipdb.com/account/api)
 - VirusTotal: Required for Domain analysis, recommended for IP analysis - [Get API key](https://www.virustotal.com/gui/join-us)
 - Shodan: Optional for additional IP intelligence - [Get API key](https://account.shodan.io/)
-- CertSpotter: Optional for better certificate transparency monitoring - [Get API key](https://sslmate.com/certspotter/api/)
 
 ## Usage
 
