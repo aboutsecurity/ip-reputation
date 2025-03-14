@@ -2,6 +2,11 @@
 
 A Streamlit application that analyzes IP addresses for reputation and security risks by querying multiple open-source intelligence sources.
 
+By Ismael Valenzuela @aboutsecurity/@thinkredactblue
+
+Join the All Around Defender Discord channel here:
+https://sec530.com/discord.php
+
 ## Features
 
 ### IP Analysis
